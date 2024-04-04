@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/restaurant-website-frontend/static/css/main.443d7030.css",
+    "main.js": "/restaurant-website-frontend/static/js/main.22537c5a.js",
+    "static/media/meal.mp4": "/restaurant-website-frontend/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/restaurant-website-frontend/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/findus.png": "/restaurant-website-frontend/static/media/findus.585c393ccd3671513743.png",
+    "static/media/chef.png": "/restaurant-website-frontend/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/restaurant-website-frontend/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery03.png": "/restaurant-website-frontend/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/welcome.png": "/restaurant-website-frontend/static/media/welcome.77d591b3d0500dd7c908.png",
+    "static/media/overlaybg.png": "/restaurant-website-frontend/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/gallery01.jpg": "/restaurant-website-frontend/static/media/gallery01.75a1a10753091dd2dc7e.jpg",
+    "static/media/gallery02.jpg": "/restaurant-website-frontend/static/media/gallery02.a523c52cd51292355c2c.jpg",
+    "static/media/laurels.jpg": "/restaurant-website-frontend/static/media/laurels.b2bf31483cf0eaf0820b.jpg",
+    "static/media/gallery04.jpg": "/restaurant-website-frontend/static/media/gallery04.2a3d4c088d543f41d228.jpg",
+    "static/media/knife.png": "/restaurant-website-frontend/static/media/knife.954a0105652a234847f9.png",
+    "static/media/G.png": "/restaurant-website-frontend/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/restaurant-website-frontend/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/restaurant-website-frontend/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/restaurant-website-frontend/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/restaurant-website-frontend/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/restaurant-website-frontend/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/restaurant-website-frontend/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/restaurant-website-frontend/index.html",
+    "static/media/spoon.svg": "/restaurant-website-frontend/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.443d7030.css.map": "/restaurant-website-frontend/static/css/main.443d7030.css.map",
+    "main.22537c5a.js.map": "/restaurant-website-frontend/static/js/main.22537c5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.443d7030.css",
+    "static/js/main.22537c5a.js"
+  ]
+}
